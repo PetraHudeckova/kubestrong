@@ -798,5 +798,21 @@
     "date": "2026-07-05",
     "linkedin": "nana-yamaguchi-611554327",
     "avatar": "/avatars/nanayamaguchi.png"
+  },
+  {
+    "name": "Sayantan Karmakar",
+    "github": "sayantan288",
+    "certs": [
+      "kubestrong",
+      "kubestronaut",
+      "golden kubestronaut"
+    ],
+    "city": "Kolkata",
+    "country": "India",
+    "date": "2026-07-27",
+    "bio": "CNCF Golden Kubestronaut | Kubestrong | Kubestronaut | OpenSource Con India Organizer ",
+    "linkedin": "sayantan-karmakar-a87091144",
+    "website": "https://sayantan288.github.io/portfolio",
+    "avatar": "/avatars/sayantan_cncg.jpg"
   }
 ]
