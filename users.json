@@ -816,6 +816,20 @@
     "avatar": "/avatars/sayantan_cncg.jpg"
   },
   {
+    "name": "Frederick Foong",
+    "github": "frederi-co",
+    "certs": [
+      "awstronaut",
+      "golden kubestrong"
+    ],
+    "city": "Singapore",
+    "country": "Singapore",
+    "date": "2026-07-27",
+	  "bio": "Golden Kubestronaut | AWS (12x Certified) | Red Hat Certified Architect | Platform Operations",
+    "linkedin": "frederick-foong-b76521",
+    "avatar": "/avatars/frederickfoong.jpg"
+  },
+  {
     "name": "Petra Hudeckova",
     "github": "PetraHudeckova",
     "certs": [
@@ -829,5 +843,5 @@
     "bio": "Golden Kubestronaut | Kubestrong | GCP",
     "linkedin": "petrahudeckova",
     "avatar": "/avatars/petra-hudeckova.jpg"
-  }
+  }	
 ]
